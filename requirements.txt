@@ -1,0 +1,10 @@
+spacy
+torch
+transformers
+pydantic
+pandas
+numpy
+plotly
+ipywidgets
+pyarrow
+nbformat
