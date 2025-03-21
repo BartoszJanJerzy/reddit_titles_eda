@@ -3,9 +3,9 @@
 
 
 ## After a quick analysis, the answer is quite intuitive:
-🤬 Negative sentiment
-🗯️ Strong and simple message (someone did something: verbs + nouns)
-🤑 Topics related to money
+🤬 Negative sentiment  
+🗯️ Strong and simple message (someone did something: verbs + nouns)  
+🤑 Topics related to money  
 
 
 ## Links
